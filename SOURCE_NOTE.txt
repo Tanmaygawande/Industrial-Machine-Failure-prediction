@@ -1,0 +1,12 @@
+SOURCE NOTE
+The project was selected from the supplied Learn Depth Academy LLP Track 1 Final Capstone PDF, Problem 21: Industrial Machine Failure Prediction.
+
+The brief requires:
+- Binary classification
+- Expected inputs: temperature, vibration, pressure, runtime, maintenance gap
+- Foundational ML methods such as Logistic Regression, KNN or Decision Tree
+- Accuracy, Precision, Recall, F1-score, Confusion Matrix and ROC-AUC where appropriate
+- A simple Streamlit prototype
+- Source code, notebook, dataset/source citation, trained model, requirements, README, technical paper and presentation
+
+Because the supplied brief contains the problem specification but no assigned dataset, this package uses a clearly labeled synthetic dataset. Do not present it as a real industrial dataset.
